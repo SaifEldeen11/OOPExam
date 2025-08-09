@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OOPExam": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
