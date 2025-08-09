@@ -1,5 +1,10 @@
 ﻿namespace OOPExam
 {
+    /*NOTE*/
+    // the code prints the grade in the practical exam instead of the final exam
+    // even though there is no code to calculate the grade in the practical exam
+    // so it might be a glitch but there is no code in the practical exam to calculate the grade
+
     internal class Program
     {
         static void Main(string[] args)

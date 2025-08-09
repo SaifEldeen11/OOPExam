@@ -87,6 +87,7 @@ namespace OOPExam
                     grade += Questions[i].Mark;
                 }
             }
+            Console.WriteLine(GradeCalc());
             Console.WriteLine($"\nYour total grade: {grade} / {totalMarks}");
         }
     }
